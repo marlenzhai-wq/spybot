@@ -5,7 +5,7 @@
 import os
 
 # Bot токенін BOT_TOKEN айнымалысы арқылы немесе төменде тікелей беруге болады.
-BOT_TOKEN = os.getenv("BOT_TOKEN", "YOUR_BOT_TOKEN_HERE")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8322428669:AAFrlV0QCcE2dpUfMShXX53U4POqlwbBxBY")
 
 # Тек осы тізімдегі Telegram ID-лар админ құқығына ие болады.
 # Өз Telegram ID-ыңызды @userinfobot сияқты боттар арқылы біле аласыз.
